@@ -1,0 +1,3 @@
+burn: V V 0
+Amulet Titan: V D V
+Burn: V V 0
